@@ -1,4 +1,4 @@
-package BinarySearch.Scaler.BinarSearch;
+package BinarySearch.Scaler.BinarySearch;
 
 public class AthMagicalNumber {
     public int solve(int A, int B, int C) {
