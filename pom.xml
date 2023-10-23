@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.dsa.practice</groupId>
-	<artifactId>DSA</artifactId>
+	<artifactId>dsa</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>DSA</name>
 	<description>Demo project for Spring Boot</description>
