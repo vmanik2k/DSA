@@ -1,5 +1,6 @@
 package com.dsa.practice.demo.Scaler.Strings;
-/*Given two string A and B of length N and M respectively consisting of lowercase letters. Find the number of occurrences of B in A.
+/*Given two string A and B of length N and M respectively consisting of lowercase letters.
+ Find the number of occurrences of B in A.
 
 
 Problem Constraints
