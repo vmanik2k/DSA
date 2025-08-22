@@ -36,7 +36,7 @@ Example Output
 Example Explanation
  There is only 1 solution for A = 4.
 */
-public class Solution {
+public class PrimeSum {
 
 public int[] primesum(int A) {
     ArrayList<Integer> primeNumbers = new ArrayList<>();

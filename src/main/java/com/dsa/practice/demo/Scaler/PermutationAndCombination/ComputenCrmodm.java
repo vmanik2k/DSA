@@ -1,4 +1,6 @@
-public class Solution {
+package com.dsa.practice.demo.Scaler.PermutationAndCombination;
+
+class Solution {
 
   /*Given three integers A, B, and C, where A represents n, B represents r, and C represents m, find and return the value of nCr % m where nCr % m = (n!/((n-r)!*r!))% m.
 
